@@ -36,6 +36,6 @@ Dado que la participación de menores de 18 años y de la tercera edad es minori
 
 ---
 
-### 🚀 Cómo Ejecutar el Proyecto
+###  Cómo Ejecutar el Proyecto
 1. Haz clic en el botón **Open In Colab** al inicio de este archivo para abrir la libreta de forma directa.
 2. Asegúrate de cargar los dataset correspondientes de ECOBICI y estaciones en tu entorno de ejecución para correr las celdas de forma secuencial.
